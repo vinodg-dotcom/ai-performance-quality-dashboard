@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1793263448412,457,Get Single Post,200,OK,API Transactions 1-1,text,true,,1324,138,1,1,https://jsonplaceholder.typicode.com/posts/1,457,0,262
+1793263448870,182,Get Posts List,200,OK,API Transactions 1-1,text,true,,28549,136,1,1,https://jsonplaceholder.typicode.com/posts,166,0,0
+1793263449053,87,Get Single User,200,OK,API Transactions 1-1,text,true,,1545,138,1,1,https://jsonplaceholder.typicode.com/users/1,86,0,0
+1793263449140,122,Get Comments for Post 1,200,OK,API Transactions 1-1,text,true,,2539,148,1,1,https://jsonplaceholder.typicode.com/comments?postId=1,122,0,0
+1793263449263,181,Get Single Album,200,OK,API Transactions 1-1,text,true,,1088,139,1,1,https://jsonplaceholder.typicode.com/albums/1,181,0,0
